@@ -1,8 +1,8 @@
 #HTML5 flappy bird
 
-play here: http://hyspace.io/flappy/
+play my fork here: https://frankbobintx2.github.io/flappy/
 
-based on http://uralozden.com/flappy/
+based on https://github.com/hyspace/flappy
 
 ##License
 
